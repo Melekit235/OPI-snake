@@ -1,2 +1,2 @@
-# test69
- 
+# Snake
+Educational project
