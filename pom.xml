@@ -8,6 +8,11 @@
     <version>1.0-SNAPSHOT</version>
     <name>TestsPls</name>
 
+         <properties>
+  <sonar.organization>melekit235</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+         
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.organization>rbels</sonar.organization>
