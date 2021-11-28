@@ -1,0 +1,76 @@
+
+`	java:S116"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ²1
+x	java:S116"^Rename this field "score_and_game_over" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öß«åüÿÿÿÿ
+j
+java:S3008!"TRename this field "game_over" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñãþû
+r
+java:S1845v"WRename method "game_over" to prevent any misunderstanding/clash with field "game_over".(ûÈÑ‹þÿÿÿÿ
+9
+java:S1948%"#Make "s" transient or serializable.(ìâ½
+>
+java:S1948)"#Make "a" transient or serializable.(Œ±»Øúÿÿÿÿ
+D
+java:S2140)")Use "java.util.Random.nextInt()" instead.(Œ±»Øúÿÿÿÿ
+D
+java:S2140)")Use "java.util.Random.nextInt()" instead.(Œ±»Øúÿÿÿÿ
+h	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈÑ‹þÿÿÿÿ
+R
+java:S2696‹"6Make the enclosing method "static" or remove this set.(Ê­Áÿÿÿÿÿ
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼ Òþüÿÿÿÿ
+R
+java:S2696¡"6Make the enclosing method "static" or remove this set.(Ì…Éòøÿÿÿÿ
+R
+java:S2696¢"6Make the enclosing method "static" or remove this set.(Ê˜÷ªÿÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¸Ïø­
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(¸Ïø­
+R
+java:S2696Ì"6Make the enclosing method "static" or remove this set.(Ê­Áÿÿÿÿÿ
+R
+java:S2696Í"6Make the enclosing method "static" or remove this set.(ý±÷¨ÿÿÿÿÿ
+f
+java:S1192Y"KDefine a constant instead of duplicating this literal "TimesRoman" 4 times.(ÆÇµÕüÿÿÿÿ
+h
+java:S1104"RMake jFrame a static final constant or non-public and provide accessors if needed.(çüÝ 
+d
+java:S1104"OMake col a static final constant or non-public and provide accessors if needed.(Ž¸ö&
+h
+java:S1104"RMake razmer a static final constant or non-public and provide accessors if needed.(§š¢º
+g
+java:S1104"QMake speed a static final constant or non-public and provide accessors if needed.(òÔ¸·
+b
+java:S1104"MMake T a static final constant or non-public and provide accessors if needed.(œñ²1
+z
+java:S1104"_Make score_and_game_over a static final constant or non-public and provide accessors if needed.(Öß«åüÿÿÿÿ
+g
+java:S1104"QMake score a static final constant or non-public and provide accessors if needed.(á®ßü
+k
+java:S1104"PMake objx a static final constant or non-public and provide accessors if needed.(£½ŠÛûÿÿÿÿ
+e
+java:S1104"PMake objy a static final constant or non-public and provide accessors if needed.(Îü´k
+k
+java:S1104!"UMake game_over a static final constant or non-public and provide accessors if needed.(ñãþû
+B
+java:S1444",Make this "public static jFrame" field final(çüÝ 
+>
+java:S1444")Make this "public static col" field final(Ž¸ö&
+B
+java:S1444",Make this "public static razmer" field final(§š¢º
+A
+java:S1444"+Make this "public static speed" field final(òÔ¸·
+A
+java:S1444"+Make this "public static score" field final(á®ßü
+E
+java:S1444"*Make this "public static objx" field final(£½ŠÛûÿÿÿÿ
+?
+java:S1444"*Make this "public static objy" field final(Îü´k
+E
+java:S1444!"/Make this "public static game_over" field final(ñãþû
+[
+java:S2184)"@Cast one of the operands of this integer division to a "double".(Œ±»Øúÿÿÿÿ
+[
+java:S2184)"@Cast one of the operands of this integer division to a "double".(Œ±»Øúÿÿÿÿ
+]
+java:S3973`"GUse indentation to denote the code conditionally executed by this "if".(ß¨Üñ
